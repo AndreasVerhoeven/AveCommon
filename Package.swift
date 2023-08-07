@@ -33,7 +33,7 @@ let package = Package(
         .package(name: "SelfSizingScroller", url: "https://github.com/AndreasVerhoeven/SelfSizingScroller.git", branch: "main"),
 		.package(name: "CustomPageableCollectionView", url: "https://github.com/AndreasVerhoeven/CustomPageableCollectionView.git", branch: "main"),
 		.package(name: "ScrollViewObserver", url: "https://github.com/AndreasVerhoeven/ScrollViewObserver.git", branch: "main"),
-		.package(name: "MarkdownKit", url: "https://github.com/AndreasVerhoeven/MarkdownKit.git", branch: "master"),
+		.package(name: "MarkdownKit", url: "https://github.com/bmoliveira/MarkdownKit.git", branch: "master"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
