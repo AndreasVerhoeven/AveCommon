@@ -11,6 +11,24 @@
         }
       },
       {
+        "package": "AveCharts",
+        "repositoryURL": "https://github.com/AndreasVerhoeven/AveCharts.git",
+        "state": {
+          "branch": "main",
+          "revision": "e4090cb52b3b50c5a83bcb246955d94feb148adb",
+          "version": null
+        }
+      },
+      {
+        "package": "AveCommonHelperViews",
+        "repositoryURL": "https://github.com/AndreasVerhoeven/AveCommonHelperViews.git",
+        "state": {
+          "branch": "main",
+          "revision": "664a5441917eb3b3aa6e1c394991586cdf1c889c",
+          "version": null
+        }
+      },
+      {
         "package": "AveDataSource",
         "repositoryURL": "https://github.com/AndreasVerhoeven/AveDataSource.git",
         "state": {
@@ -29,11 +47,110 @@
         }
       },
       {
+        "package": "AveSwiftHelpers",
+        "repositoryURL": "https://github.com/AndreasVerhoeven/AveSwiftHelpers.git",
+        "state": {
+          "branch": "main",
+          "revision": "59e3a6e38efad94ece8e9777b9f73aacd4cbefdd",
+          "version": null
+        }
+      },
+      {
+        "package": "AveTableBuilder",
+        "repositoryURL": "https://github.com/AndreasVerhoeven/AveTableBuilder.git",
+        "state": {
+          "branch": "main",
+          "revision": "a4739384125612a7684b55a681fe47ff48dcabd5",
+          "version": null
+        }
+      },
+      {
+        "package": "BalloonView",
+        "repositoryURL": "https://github.com/AndreasVerhoeven/BalloonView.git",
+        "state": {
+          "branch": "master",
+          "revision": "0f2dec6dcad02c80f10dd16e0945cf6b53bf7506",
+          "version": null
+        }
+      },
+      {
+        "package": "CustomPageableCollectionView",
+        "repositoryURL": "https://github.com/AndreasVerhoeven/CustomPageableCollectionView.git",
+        "state": {
+          "branch": "main",
+          "revision": "678d339886e73bc6e7fe99b680385c5d2eb7d1d0",
+          "version": null
+        }
+      },
+      {
+        "package": "GeometryHelpers",
+        "repositoryURL": "https://github.com/AndreasVerhoeven/GeometryHelpers.git",
+        "state": {
+          "branch": "main",
+          "revision": "73e3470c50b0095088973ea26c03c6538c08f89b",
+          "version": null
+        }
+      },
+      {
+        "package": "MarkdownKit",
+        "repositoryURL": "https://github.com/bmoliveira/MarkdownKit.git",
+        "state": {
+          "branch": "master",
+          "revision": "4270b02490752f5c224de790764465faf552ec63",
+          "version": null
+        }
+      },
+      {
+        "package": "NavigationBarBackgroundHider",
+        "repositoryURL": "https://github.com/AndreasVerhoeven/NavigationBarBackgroundHider.git",
+        "state": {
+          "branch": "main",
+          "revision": "5ec5b7e66a69614644ffe08932db22038a1f2c8d",
+          "version": null
+        }
+      },
+      {
+        "package": "ScrollViewObserver",
+        "repositoryURL": "https://github.com/AndreasVerhoeven/ScrollViewObserver.git",
+        "state": {
+          "branch": "main",
+          "revision": "7af69845610a7f11bbb2069e9a943adfe3d3f8e7",
+          "version": null
+        }
+      },
+      {
+        "package": "SelfSizingScroller",
+        "repositoryURL": "https://github.com/AndreasVerhoeven/SelfSizingScroller.git",
+        "state": {
+          "branch": "main",
+          "revision": "da804712506b780e3469b6f895d665644f38cf23",
+          "version": null
+        }
+      },
+      {
+        "package": "SFSafeSymbols",
+        "repositoryURL": "https://github.com/SFSafeSymbols/SFSafeSymbols.git",
+        "state": {
+          "branch": "stable",
+          "revision": "4fe3f8d13e09ef0a324c67a12d9cfcccf2d6989c",
+          "version": null
+        }
+      },
+      {
         "package": "UIKitAnimations",
         "repositoryURL": "https://github.com/AndreasVerhoeven/UIKitAnimations.git",
         "state": {
           "branch": "main",
           "revision": "a03d0d878452a50e0a13f3228ee768f68db1cd97",
+          "version": null
+        }
+      },
+      {
+        "package": "UIViewModifiers",
+        "repositoryURL": "https://github.com/AndreasVerhoeven/UIViewModifiers.git",
+        "state": {
+          "branch": "main",
+          "revision": "b4fb9ddea8df8c8bf6c8a253d4aa9211b8c72d2e",
           "version": null
         }
       }
