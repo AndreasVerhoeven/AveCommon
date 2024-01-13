@@ -65,6 +65,15 @@
         }
       },
       {
+        "package": "AveSwiftHelpers",
+        "repositoryURL": "https://github.com/AndreasVerhoeven/AveUtility.git",
+        "state": {
+          "branch": "main",
+          "revision": "412326836fbdfbfdfd2442fba826174639c1ab63",
+          "version": null
+        }
+      },
+      {
         "package": "BalloonView",
         "repositoryURL": "https://github.com/AndreasVerhoeven/BalloonView.git",
         "state": {
